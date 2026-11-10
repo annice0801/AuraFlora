@@ -1,0 +1,122 @@
+{
+ "blog-hero": {
+  "title": "The Bouquet (Unsplash).jpg",
+  "author": "Sweet Ice Cream Photography sweeticecreamphotography",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:The_Bouquet_(Unsplash).jpg",
+  "width": 1600,
+  "height": 1067
+ },
+ "visual-cover": {
+  "title": "Elegant Flower Arrangement in Vase.jpg",
+  "author": "Koderir60",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Elegant_Flower_Arrangement_in_Vase.jpg",
+  "width": 1600,
+  "height": 2405
+ },
+ "visual-diverse": {
+  "title": "Diverse flower vase (Unsplash).jpg",
+  "author": "Annie Spratt anniespratt",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Diverse_flower_vase_(Unsplash).jpg",
+  "width": 1600,
+  "height": 2279
+ },
+ "visual-minimal": {
+  "title": "Minimal flower vase (Unsplash).jpg",
+  "author": "Imani Clovis imaniclovis",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Minimal_flower_vase_(Unsplash).jpg",
+  "width": 1600,
+  "height": 2681
+ },
+ "styles-ikebana": {
+  "title": "Ikebana exhibition at Meguro Gajoen 2018 10.jpg",
+  "author": "Gryffindor",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Ikebana_exhibition_at_Meguro_Gajoen_2018_10.jpg",
+  "width": 1600,
+  "height": 1279
+ },
+ "styles-western": {
+  "title": "Flowers in a glass vase (Unsplash).jpg",
+  "author": "Dominik Martin dominikmartin",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Flowers_in_a_glass_vase_(Unsplash).jpg",
+  "width": 1600,
+  "height": 1060
+ },
+ "styles-natural": {
+  "title": "Rustic flower vase (Unsplash).jpg",
+  "author": "Alisa Anton alisaanton",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Rustic_flower_vase_(Unsplash).jpg",
+  "width": 1600,
+  "height": 1067
+ },
+ "types-table": {
+  "title": "Legant table setting with white floral centerpiece.jpg",
+  "author": "Bhullargraphic",
+  "license": "CC BY-SA 4.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Legant_table_setting_with_white_floral_centerpiece.jpg",
+  "width": 1600,
+  "height": 1067
+ },
+ "types-bridal": {
+  "title": "Bridal bouquet (Unsplash).jpg",
+  "author": "Tamara Menzi itstamaramenzi",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Bridal_bouquet_(Unsplash).jpg",
+  "width": 1600,
+  "height": 1067
+ },
+ "types-handtied": {
+  "title": "Paper-wrapped bouquet (Unsplash).jpg",
+  "author": "Lizzie amianyuhua",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Paper-wrapped_bouquet_(Unsplash).jpg",
+  "width": 1600,
+  "height": 2400
+ },
+ "care-peony": {
+  "title": "Peony vase (Unsplash).jpg",
+  "author": "Alexandra Seinet alexseinet",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Peony_vase_(Unsplash).jpg",
+  "width": 1600,
+  "height": 2400
+ },
+ "care-florist": {
+  "title": "Florist putting a bouquet together.jpg",
+  "author": "direct2Florist",
+  "license": "CC BY 2.0",
+  "source": "https://commons.wikimedia.org/wiki/File:Florist_putting_a_bouquet_together.jpg",
+  "width": 1600,
+  "height": 1067
+ },
+ "season-cover": {
+  "title": "Peony and wildflowers, Ehrenbach.jpg",
+  "author": "Gerda Arendt",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Peony_and_wildflowers,_Ehrenbach.jpg",
+  "width": 1600,
+  "height": 1200
+ },
+ "season-yellow": {
+  "title": "Round yellow flowers (Unsplash).jpg",
+  "author": "Danielle MacInnes dsmacinnes",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Round_yellow_flowers_(Unsplash).jpg",
+  "width": 1600,
+  "height": 1067
+ },
+ "season-agapanthus": {
+  "title": "Lily of the Nile in a vase (Unsplash).jpg",
+  "author": "NordWood Themes nordwood",
+  "license": "CC0",
+  "source": "https://commons.wikimedia.org/wiki/File:Lily_of_the_Nile_in_a_vase_(Unsplash).jpg",
+  "width": 1600,
+  "height": 1067
+ }
+}

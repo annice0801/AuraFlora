@@ -6,20 +6,38 @@
     "dev": "next dev",
     "build": "next build",
     "start": "next start",
-    "lint": "eslint"
+    "lint": "eslint",
+    "seed:flowers": "node --env-file=.env.local scripts/seed-flowers.mjs",
+    "render:cutouts": "node --env-file=.env.local scripts/render-cutouts.mjs",
+    "seed:demos": "node --env-file=.env.local scripts/seed-demos.mjs",
+    "seed:inspirations": "node --env-file=.env.local scripts/seed-inspirations.mjs",
+    "seed:gifts": "node --env-file=.env.local scripts/seed-gifts.mjs",
+    "render:hero": "node --env-file=.env.local scripts/render-hero.mjs",
+    "render:palettes": "node --env-file=.env.local scripts/render-palettes.mjs"
   },
   "dependencies": {
+    "@react-three/drei": "^10.7.9",
+    "@react-three/fiber": "^9.8.2",
+    "@vercel/blob": "^2.8.2",
+    "better-auth": "^1.7.18",
+    "lucide-react": "^1.70.0",
+    "mongodb": "^7.8.0",
     "next": "16.4.5",
     "react": "19.3.0",
-    "react-dom": "19.3.0"
+    "react-dom": "19.3.0",
+    "server-only": "^0.0.1",
+    "three": "^0.187.0",
+    "zod": "^4.6.7"
   },
   "devDependencies": {
     "@tailwindcss/turbopack": "^4",
     "@types/node": "^20",
     "@types/react": "^19",
     "@types/react-dom": "^19",
+    "@types/three": "^0.187.0",
     "eslint": "^9",
     "eslint-config-next": "16.4.5",
+    "puppeteer-core": "^25.16.0",
     "tailwindcss": "^4",
     "typescript": "^5"
   }
